@@ -1,0 +1,14 @@
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\bin\Debug\SystemMonitoring.exe.config
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\bin\Debug\SystemMonitoring.exe
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\bin\Debug\SystemMonitoring.pdb
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\bin\Debug\MetroFramework.Design.dll
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\bin\Debug\MetroFramework.dll
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.Form1.resources
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.Properties.Resources.resources
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.csproj.CopyComplete
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.exe
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.pdb
+C:\Users\misha\source\repos\SystemMonitoring\SystemMonitoring\obj\Debug\SystemMonitoring.csproj.CoreCompileInputs.cache
